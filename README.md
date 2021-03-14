@@ -5,9 +5,9 @@ Description: Simple API calls using async, await and axios. Parsing the informat
 
 Purpose:  To demonstrate skills to call and handle data from external API's
 
-| API Routes |
-| ---------- |
-|https://api.agify.io/?name=meelad|
-|https://api.genderize.io/?name=luc|
-|https://api.nationalize.io/?name=nathaniel|
-|https://restcountries.eu/rest/v2/alpha/${country_code|
+|            |API Routes |
+| ---------- | ---------- |
+|For the age | https://api.agify.io/?name=meelad|
+|For the gender| https://api.genderize.io/?name=luc|
+|For teh nationality | https://api.nationalize.io/?name=nathaniel|
+|Handle Country Code | https://restcountries.eu/rest/v2/alpha/${country_code|
