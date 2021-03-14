@@ -10,3 +10,4 @@ Purpose:  To demonstrate skills to call and handle data from external API's
 |https://api.agify.io/?name=meelad|
 |https://api.genderize.io/?name=luc|
 |https://api.nationalize.io/?name=nathaniel|
+|https://restcountries.eu/rest/v2/alpha/${country_code|
