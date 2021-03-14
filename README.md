@@ -9,5 +9,5 @@ Purpose:  To demonstrate skills to call and handle data from external API's
 | ---------- | ---------- |
 |For the age | https://api.agify.io/?name=meelad|
 |For the gender| https://api.genderize.io/?name=luc|
-|For teh nationality | https://api.nationalize.io/?name=nathaniel|
+|For the nationality | https://api.nationalize.io/?name=nathaniel|
 |Handle Country Code | https://restcountries.eu/rest/v2/alpha/${country_code|
