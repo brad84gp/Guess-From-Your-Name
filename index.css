@@ -1,0 +1,52 @@
+body {
+    background-color: lightskyblue;
+    color: white;
+}
+
+div {
+    margin: auto;
+    width: 50%;
+    padding: 5%;
+}
+
+#info {
+    align-items: flex-start;
+    margin: auto;
+    width: 50%;
+}
+
+#info ul {
+    text-align: center;
+    width: 500px;
+    float: right;
+    margin-right: 35%;
+    font-size: 20px;
+}
+#info h2 {
+    text-align: left;
+    max-width: fit-content;
+    transform: rotate(-40deg);
+    font-size: 30px;
+    text-overflow: inherit;
+}
+
+h1 {
+    margin-top: 0;
+    color: white;
+    text-align: center;
+    font-size: 40px;
+}
+
+form {
+    display: flex;
+    justify-content: center;
+}
+form input {
+    width: 300px;
+    height: 30px;
+    margin-right: 5px;
+}
+
+form button {
+    width: 100px;
+}
